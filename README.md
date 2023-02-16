@@ -7,5 +7,4 @@ I am always looking to learn and grow as a developer, and I am excited to share 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahib61003&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="400px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib61003&theme=tokyonight&layout=compact&langs_count=8&card_width=400&count_private=true" width="400px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahib61003&theme=tokyonight&date_format=j%20M%5B%20Y%5D&count_private=true" width="400px">
- </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahib61003&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="400px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib61003&theme=tokyonight&layout=compact&langs_count=8&card_width=400&count_private=true" width="400px"> 
