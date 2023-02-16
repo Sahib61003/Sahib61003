@@ -6,5 +6,5 @@ I am always looking to learn and grow as a developer, and I am excited to share 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahib61003)
 
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Sahib61003&theme=default&show_icons=true&include_all_commits=true&count_private=true" width="600px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahib61003&theme=default&layout=compact&langs_count=8&card_width=500&count_private=true" width="600px"> 
