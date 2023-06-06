@@ -13,5 +13,6 @@ I am always looking to learn and grow as a developer, and I am excited to share 
 
 # Contact Info
 If you have any questions or would like to reach out to Sahib61003, you can contact them through the following channels:
-Email: sahib61003@gmail.com 
-LinkedIn: https://www.linkedin.com/in/sahib-preet-singh/
+
+* Email: sahib61003@gmail.com 
+* LinkedIn: https://www.linkedin.com/in/sahib-preet-singh/
